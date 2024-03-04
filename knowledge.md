@@ -135,7 +135,6 @@ title: Feedback
    - A la hora de conmemorar aquellos que han trabajado bien no es mala idea des-anonimizar para que aquellos que trabajen más se sientan recompensados y reconocidos.
 
 7. **Priorización de esfuerzos:**
-
    - Es importante centrar los esfuerzos en aquello esencial lo primero. Si centramos el primer sprint solo en asentar bases podemos más tarde quedarnos sin tiempo para implementar estas funcionalidades clave.
 
 8. **Establecer medidas para evaluar el rendimiento**
@@ -148,19 +147,19 @@ title: Feedback
 
 10. **Tipo de coste de mantenimiento**
 
-- Mantenimiento correctivo (Defectos en el software)
-- Mantenimiento Preventivo (Refacotizacion)
-- Mantenimiento Adaptativo (Actualizar software)
-- Mantenimiento Aditivo (Refinar y añadir funcionalidad software)
+   - Mantenimiento correctivo (Defectos en el software)
+   - Mantenimiento Preventivo (Refacotizacion)
+   - Mantenimiento Adaptativo (Actualizar software)
+   - Mantenimiento Aditivo (Refinar y añadir funcionalidad software)
 
 11. **Costes de mantenimiento y Costes de operación:**
 
-- Los costes de mantenimiento están dentro del coste de operación.
+   - Los costes de mantenimiento están dentro del coste de operación.
 
 12. **Un buen elevator pitch ayuda a vender el producto**
 
-- Seguir la estructura de un elevator pitch es ideal para vender cualquier producto. Te fuerza a sintetizar la información.
+   - Seguir la estructura de un elevator pitch es ideal para vender cualquier producto. Te fuerza a sintetizar la información.
 
 13. **Demo grabada como apoyo en una presentación**
 
-- Una buena demo guionizada tocando los puntos claves es de más utilidad que probar el software en directo.
+   - Una buena demo guionizada tocando los puntos claves es de más utilidad que probar el software en directo.

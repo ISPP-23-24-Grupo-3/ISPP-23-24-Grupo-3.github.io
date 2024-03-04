@@ -3,7 +3,7 @@ title: Checklist Semanas
 layout: default
 ---
 
-# Checklist Semana 5
+# Checklist Semana 4
 
 - Dividir TCO en CaPex y en OpEx
 - Estimar TCO para diferentes número de usuarios, TCO para 20 usuarios, 30, 50.
@@ -26,7 +26,7 @@ Cuestan x para tantos usuarios
 - Landing page
 - Killer opener
 - Elevator pitch
-- Resumen de análisis de competidores 
+- Resumen de análisis de competidores
 - Resumen de TCO
   - CapEx (Lo que forma parte de tu capital)
   - OpEx (Lo contrario)
